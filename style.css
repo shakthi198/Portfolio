@@ -1,0 +1,171 @@
+body{
+    background-color: rgb(229, 219, 247);
+}
+.nav-container{
+    background-color:  rgb(201, 176, 251);
+    margin: -7.4px -7.6px 0px -7.7px;
+    padding:20px 15px;
+}
+.nav a{ 
+    padding: 0px 110px 0px 150px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    color: rgb(57, 56, 56);
+}
+.nav :hover{
+    color: rgb(148, 105, 235) ;
+}
+
+.body-container{
+    margin:10px 0px 0px 0px;
+}
+.msg{
+    float: left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin: 30px 0px 0px 120px;
+    color:rgb(32, 31, 31)
+}
+span
+{
+    color: rgb(148, 105, 235);
+}
+.btn{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: solid 3px  rgb(148, 105, 235);
+    color:  rgb(148, 105, 235);
+    border-radius: 20px;
+    margin: -10px 10px 0px 0px;
+    background-color: rgb(229, 219, 247);;
+}
+.btn:hover{
+    background-color:rgb(148, 105, 235);
+    color: whitesmoke;
+}
+.img1{
+    float:right;
+    margin: 100px 80px 0px 0px;
+}
+.icons{
+    display: flex;
+    margin: 580px 0px 0px 110px;   
+}
+.logo{
+    margin: 0px 25px 0px 0px;
+}
+.img2{
+    float: left;
+    margin: 120px 0px 0px 100px;
+}
+.detail{
+    float: right;
+    margin:-450px 10px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: flexbox;
+    padding: 0px 0px 0px 640px;
+}
+.detail h2{
+    color:  rgb(148, 105, 235);
+    font-weight: bolder;
+}
+.heading{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  rgb(148, 105, 235);
+    margin: -30px 0px 0px -30px;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    color: rgb(57, 56, 56);
+    margin: 12px 5px 15px 2px;
+}
+.tech{
+    border: 1px solid rgb(148, 105, 235);
+    border-radius: 10px;
+    margin: 10px 100px 5px 100px;
+    padding:10px 30px 20px 30px;
+    box-shadow: 0 3px 10px gray;
+}
+.container{
+    background-color: rgb(201, 176, 251) ;
+    width: 90%;
+    height: 80%;
+    border-radius: 15px;
+    margin-bottom: 2px;
+}
+.skill{
+    background-color:rgb(148, 105, 235) ;
+    color:black;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.html{
+    width: 70%;
+}
+.css{
+    width: 60%;
+}
+.javascript{
+    width: 40%;
+}
+.java{
+    width: 50%;
+}
+.sql{
+    width: 70%;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    padding: 1px;
+}
+img{
+    margin: 2px;
+}
+.sql-img{
+    margin: 5px;
+}
+.con{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  rgb(148, 105, 235);
+}
+.details{
+    border: 1px solid rgb(148, 105, 235);
+    border-radius: 10px;
+    box-shadow: 0 3px 10px gray;
+    margin: 50px 0px 20px 250px;
+    padding: 30px 60px;
+    float: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.na{
+    color:  rgb(148, 105, 235);   
+}
+.details2{
+    border: 1px solid rgb(148, 105, 235);
+    border-radius: 10px;
+    box-shadow: 0 3px 10px gray;
+    margin: 50px 250px 20px 0px;
+    padding: 50px 50px;
+    float: right;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.social{
+    display: flex;
+    margin: 450px 0px 0px 600px;   
+}
+.logo1{
+    padding: 20px;
+}
